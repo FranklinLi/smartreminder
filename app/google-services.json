@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "564945773361",
+    "firebase_url": "https://smart-reminder-58555.firebaseio.com",
+    "project_id": "smart-reminder-58555",
+    "storage_bucket": "smart-reminder-58555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564945773361:android:3b8bcb267eb0b177",
+        "android_client_info": {
+          "package_name": "com.example.franklin.smartreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564945773361-pr6jmthuasup6045q16a1rk4nqvdj902.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.franklin.smartreminder",
+            "certificate_hash": "691401b33c1ccb2f5b174a4ee5f5545a48e75c9b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_GsdDj9a7PNeMByInl8zt45u7Mm6lZvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564945773361-n7ma5o9hcpai1uq6c2540qj2nccntqgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

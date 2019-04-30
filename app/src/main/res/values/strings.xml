@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">smart reminder</string>
+    <string name="default_notification_channel_id">Notification</string>
+    <string name="fcm_message">Notification</string>
+</resources>
